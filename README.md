@@ -3,10 +3,10 @@
 I'm passionate about Data Science and leveraging Machine Learning to solve real-world problems through data analysis and predictive modeling.
 
 ### Tech stack ⚙️
-**Languages**: Python, Java, SQL
-**Data Science**: Pandas, NumPy, Scikit-learn, Seaborn
-**Web Dev**: HTML (Basic), CSS (Basic)
-**Tools**: Jupyter Notebooks, Git, GitHub
+**Languages**: Python, Java, SQL\
+**Data Science**: Pandas, NumPy, Scikit-learn, Seaborn\
+**Web Dev**: HTML (Basic), CSS (Basic)\
+**Tools**: Jupyter Notebooks, Git, GitHub\
 **Databases**: MySQL
 
 ### Currently working on...
