@@ -15,4 +15,4 @@ Analyzing Spotify music data from a dataset I found online! I'm working on predi
 #### Fun fact 🤭
 I love cozy vibes, so I like to turn the lights off in my room and just keep a few little lamps and candles on. It scares my parents when they open the door and see me just sitting in the dark 😝
 
-**Check out my [Linkedin](linkedin.com/in/charmibuddaluru/)!**
+**Check out my [Linkedin](https://www.linkedin.com/in/charmibuddaluru/)!**
