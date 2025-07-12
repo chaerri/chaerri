@@ -10,9 +10,9 @@ I'm passionate about Data Science and leveraging Machine Learning to solve real-
 **Databases**: MySQL
 
 #### Currently working on...
-Analyzing Spotify music data from a dataset I found online! I'm working on predicting the popularity of a song based on it's features. I'm currently experimenting with various supervised learning algorithms.
+Analyzing Spotify music data from a dataset I found online! I'm working on predicting the popularity of a song based on it's features and am currently experimenting with various supervised learning algorithms.
 
-#### Fun fact 🤭
-I love cozy vibes, so I like to turn the lights off in my room and just keep a few little lamps and candles on. It scares my parents when they open the door and see me just sitting in the dark 😝
+#### Fun fact 🌟
+I have a habit of annotating any book I read with post-it notes. I just can't keep my thoughts to myself so I have to write them down!
 
 **Check out my [Linkedin](https://www.linkedin.com/in/charmibuddaluru/)!**
