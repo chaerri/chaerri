@@ -16,4 +16,4 @@ Analyzing Spotify music data from a dataset I found online! I'm working on predi
 Study Habits [README.md](https://github.com/chaerri/studyhabits/blob/main/README.md)
 
 #### Connect with me 🤝
-* Linkedin: linkedin.com/in/charmibuddaluru
+Linkedin: [linkedin.com/in/charmibuddaluru](https://www.linkedin.com/in/charmibuddaluru/)
